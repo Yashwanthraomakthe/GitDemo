@@ -1,0 +1,7 @@
+11:52:06.925 [main] FATAL qaclickacademy.DemoTest - This is fatal message
+15:34:00.689 [main] INFO  qaclickacademy.DemoTest - This is info message
+15:34:00.692 [main] DEBUG qaclickacademy.DemoTest - This is debug message
+15:34:00.692 [main] ERROR qaclickacademy.DemoTest - This is error message
+15:34:00.692 [main] FATAL qaclickacademy.DemoTest - This is fatal message
+10:57:54.415 [main] INFO  qaclickacademy.DemoTest - This is info message
+10:57:54.422 [main] DEBUG qaclickacademy.DemoTest - This is debug message

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-18T09:44:56 IST" name="Command line suite" finished-at="2020-04-18T09:47:36 IST" duration-ms="159382">
+    <groups>
+      <group name="Failed">
+        <method signature="DynamicDropDownTest.DynamicDropDown()[pri:0, instance:qaclickacademy.DynamicDropDownTest@87f383f]" name="DynamicDropDown" class="qaclickacademy.DynamicDropDownTest"/>
+        <method signature="SpicejetFilightSearchWithCurrentDateTest.SpicejetFilightSearchWithCurrentDate()[pri:0, instance:qaclickacademy.SpicejetFilightSearchWithCurrentDateTest@4eb7f003]" name="SpicejetFilightSearchWithCurrentDate" class="qaclickacademy.SpicejetFilightSearchWithCurrentDateTest"/>
+      </group> <!-- Failed -->
+    </groups>
+    <test started-at="2020-04-18T09:44:56 IST" name="Command line test" finished-at="2020-04-18T09:47:36 IST" duration-ms="159382">
+      <class name="qaclickacademy.SpicejetFilightSearchWithCurrentDateTest">
+        <test-method signature="SpicejetFilightSearchWithCurrentDate()[pri:0, instance:qaclickacademy.SpicejetFilightSearchWithCurrentDateTest@4eb7f003]" started-at="2020-04-18T09:46:01 IST" name="SpicejetFilightSearchWithCurrentDate" finished-at="2020-04-18T09:46:55 IST" duration-ms="54067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpicejetFilightSearchWithCurrentDate -->
+      </class> <!-- qaclickacademy.SpicejetFilightSearchWithCurrentDateTest -->
+      <class name="qaclickacademy.DropDownTest">
+        <test-method signature="DropDown()[pri:0, instance:qaclickacademy.DropDownTest@6121c9d6]" started-at="2020-04-18T09:45:13 IST" name="DropDown" finished-at="2020-04-18T09:45:43 IST" duration-ms="29637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropDown -->
+      </class> <!-- qaclickacademy.DropDownTest -->
+      <class name="qaclickacademy.DemoTest">
+        <test-method signature="Demo()[pri:0, instance:qaclickacademy.DemoTest@ed9d034]" started-at="2020-04-18T09:44:57 IST" name="Demo" finished-at="2020-04-18T09:45:13 IST" duration-ms="16654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- qaclickacademy.DemoTest -->
+      <class name="qaclickacademy.DynamicDropDownTest">
+        <test-method signature="DynamicDropDown()[pri:0, instance:qaclickacademy.DynamicDropDownTest@87f383f]" started-at="2020-04-18T09:45:43 IST" name="DynamicDropDown" finished-at="2020-04-18T09:46:01 IST" duration-ms="18419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DynamicDropDown -->
+      </class> <!-- qaclickacademy.DynamicDropDownTest -->
+      <class name="qaclickacademy.UptimizedAddToCartTest">
+        <test-method signature="UptimizedAddToCart()[pri:0, instance:qaclickacademy.UptimizedAddToCartTest@eafc191]" started-at="2020-04-18T09:46:55 IST" name="UptimizedAddToCart" finished-at="2020-04-18T09:47:36 IST" duration-ms="40548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UptimizedAddToCart -->
+      </class> <!-- qaclickacademy.UptimizedAddToCartTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
